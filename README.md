@@ -1,12 +1,12 @@
 
-# 📊 Employee Data Cleaning & Preprocessing
+Employee Data Cleaning & Preprocessing
 
-## 🔹 Project Overview
+Project Overview
 
 This project focuses on cleaning and preprocessing a raw Employee dataset containing inconsistencies, missing values, formatting issues, and data entry errors. The objective was to transform the dataset into a structured and analysis-ready format using Microsoft Excel / Power Query.
 
 
-## 🔍 Data Issues Identified
+Data Issues Identified
 
 * Missing values in Age, Salary, Work Hours, Department, Position, Phone Number
 * Spelling errors (e.g., `Gr@c3`, `Fin@nc3`, `Cl3rk`)
@@ -17,7 +17,7 @@ This project focuses on cleaning and preprocessing a raw Employee dataset contai
 * Address inconsistencies (e.g., `123 main st`, `101 M@pl3 Av3`)
 * Duplicate and incomplete records
 
-## 🛠 Data Cleaning Steps Performed
+Data Cleaning Steps Performed
 
 * Removed or handled missing values appropriately
 * Corrected spelling mistakes using Find & Replace
@@ -31,7 +31,7 @@ This project focuses on cleaning and preprocessing a raw Employee dataset contai
 * Filled missing Work Hours with default values (where applicable)
 
 
-## ✅ Final Outcome
+Final Outcome
 
 * Clean, consistent, and structured dataset
 * Standardized categorical fields
@@ -39,7 +39,8 @@ This project focuses on cleaning and preprocessing a raw Employee dataset contai
 * Dataset ready for analysis, visualization, and reporting
 
 
-## 📌 Tools Used
+Tools Used
+Excel 
 
 * Microsoft Excel
 * Power Query
